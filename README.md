@@ -10,3 +10,4 @@ Downloading tracks and playlists from soundcloud.
 5. Just put url in cmd line to download.
 
 
+search tracks in 'music' folder.
