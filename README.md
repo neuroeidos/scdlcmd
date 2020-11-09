@@ -1,7 +1,10 @@
 # scdlcmd
 
+RUN?
 Downloading tracks and playlists from soundcloud.
-pip install -r requirements.txt
-
-Just put url in cmd line to download.
+1. git clone https://github.com/neuroeidos/scdlcmd.git
+2. cd scdlcmd
+3. pip install -r requirements.txt
+4. run sound_download.bat
+5. Just put url in cmd line to download.
 
