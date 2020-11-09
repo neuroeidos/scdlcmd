@@ -1,0 +1,23 @@
+{
+    "soundcloud": {
+      "CLIENT_ID": "a3dd183a357fcff9a6943c0d65664087",
+      "AGGRESSIVE_CLIENT_ID": "OmTFHKYSMLFqnu2HHucmclAptedxWXkq",
+      "CLIENT_SECRET": "7e10d33e967ad42574124977cf7fa4b7",
+      "MAGIC_CLIENT_ID": "b45b1aa10f1ac2941910a7f0d10f8e28",
+      "APP_VERSION": "1481046241"
+    },
+    "vargs": {
+      "artist_url": [],
+      "num_tracks": 2147483647,
+      "group": false,
+      "likes": false,
+      "downloadable": false,
+      "track": "",
+      "folders": false,
+      "path": "",
+      "open": false,
+      "keep": false,
+      "debug": true
+    },
+    "AUTHOR": "N4N0D3"
+  }
