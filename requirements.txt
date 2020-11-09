@@ -1,0 +1,4 @@
+requests
+soundcloud
+clint
+mutagen
